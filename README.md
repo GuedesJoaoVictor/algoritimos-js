@@ -7,3 +7,6 @@ Curso de algoritimos, feito na alura.
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
+
+## Links para acessar os projetos:
+<a href="algoritimos-3r8nh3k24-guedesjoaovictors-projects.vercel.app" target="_blank">algoritimos-3r8nh3k24-guedesjoaovictors-projects.vercel.app</a>
