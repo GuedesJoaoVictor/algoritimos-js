@@ -9,5 +9,5 @@ Curso de algoritimos, feito na alura.
 </div>
 
 ## Links para acessar os projetos:
-<p>Alugar Jogos: <a href="algoritimos-3r8nh3k24-guedesjoaovictors-projects.vercel.app">algoritimos-3r8nh3k24-guedesjoaovictors-projects.vercel.app</a></p>
+<p>Alugar Jogos: <a href="https://algoritimos-js-tcmp.vercel.app/">https://algoritimos-js-tcmp.vercel.app/</a></p>
 <p>Carrinho de Compras: <a href="https://algoritimos-js.vercel.app/" target="_blank">https://algoritimos-js.vercel.app/</a></p>
