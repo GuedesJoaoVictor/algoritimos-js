@@ -11,3 +11,4 @@ Curso de algoritimos, feito na alura.
 ## Links para acessar os projetos:
 <p>Alugar Jogos: <a href="https://algoritimos-js-tcmp.vercel.app/">https://algoritimos-js-tcmp.vercel.app/</a></p>
 <p>Carrinho de Compras: <a href="https://algoritimos-js.vercel.app/" target="_blank">https://algoritimos-js.vercel.app/</a></p>
+<p>Amigo Secreto: <a href="https://algoritimos-js-amigo-secreto.vercel.app/" target="_blank">https://algoritimos-js-amigo-secreto.vercel.app/</a></p>
