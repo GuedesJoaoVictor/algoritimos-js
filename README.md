@@ -9,4 +9,4 @@ Curso de algoritimos, feito na alura.
 </div>
 
 ## Links para acessar os projetos:
-<a href="algoritimos-3r8nh3k24-guedesjoaovictors-projects.vercel.app">algoritimos-3r8nh3k24-guedesjoaovictors-projects.vercel.app</a>
+<p>Projeto: Alugar Jogos<a href="algoritimos-3r8nh3k24-guedesjoaovictors-projects.vercel.app">algoritimos-3r8nh3k24-guedesjoaovictors-projects.vercel.app</a></p>
